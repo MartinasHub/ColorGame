@@ -1,2 +1,1 @@
-# ColorGame
-ColorGame I did on Udemy
+Code along with tutor on Udemy.
